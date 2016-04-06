@@ -1,0 +1,14 @@
+{
+  "name": "hotels",
+  "version": "1.0.0",
+  "description": "this module is used to manage hotel ranking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hotels"
+  ],
+  "author": "shlomi mihaeli",
+  "license": "ISC"
+}
